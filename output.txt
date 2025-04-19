@@ -1,0 +1,54 @@
+Epoch 1: 100%|██████████| 231/231 [06:22<00:00,  1.66s/it]Validation after epoch 1/20
+
+Validation: 100%|██████████| 58/58 [00:09<00:00,  6.14it/s]
+ Val G_adv: 1.032, cycle_L1: 0.179, cls: 1.282
+Epochs:   5%|▌         | 1/20 [06:34<2:04:49, 394.20s/it]Checkpoint saved at epoch 1, val_score=1.2115
+Step 300/4620 | D_X_adv: 1.198, D_Y_adv: 1.177, G_adv: 0.912, cycle: 3.717
+Step 400/4620 | D_X_adv: 1.245, D_Y_adv: 1.401, G_adv: 0.720, cycle: 2.402
+Epoch 2: 100%|██████████| 231/231 [06:28<00:00,  1.68s/it]Validation after epoch 2/20
+
+Validation: 100%|██████████| 58/58 [00:09<00:00,  6.39it/s]
+ Val G_adv: 0.861, cycle_L1: 0.081, cls: 1.124
+Epochs:  10%|█         | 2/20 [13:13<1:59:08, 397.14s/it]Checkpoint saved at epoch 2, val_score=0.9418
+Step 500/4620 | D_X_adv: 1.368, D_Y_adv: 1.301, G_adv: 0.839, cycle: 1.819
+Step 600/4620 | D_X_adv: 1.346, D_Y_adv: 1.413, G_adv: 0.734, cycle: 1.695
+Epoch 3: 100%|██████████| 231/231 [06:28<00:00,  1.68s/it]Validation after epoch 3/20
+
+Validation: 100%|██████████| 58/58 [00:08<00:00,  6.46it/s]
+ Val G_adv: 0.699, cycle_L1: 0.048, cls: 1.023
+Epochs:  15%|█▌        | 3/20 [19:52<1:52:45, 397.95s/it]Checkpoint saved at epoch 3, val_score=0.7470
+Step 700/4620 | D_X_adv: 1.357, D_Y_adv: 1.369, G_adv: 0.703, cycle: 1.014
+Step 800/4620 | D_X_adv: 1.294, D_Y_adv: 1.351, G_adv: 0.728, cycle: 0.919
+Step 900/4620 | D_X_adv: 1.424, D_Y_adv: 1.394, G_adv: 0.707, cycle: 0.798
+Epoch 4: 100%|██████████| 231/231 [06:29<00:00,  1.69s/it]Validation after epoch 4/20
+
+Validation: 100%|██████████| 58/58 [00:09<00:00,  6.25it/s]
+Epochs:  20%|██        | 4/20 [26:32<1:46:18, 398.64s/it] Val G_adv: 0.747, cycle_L1: 0.040, cls: 0.925
+Step 1000/4620 | D_X_adv: 1.311, D_Y_adv: 1.305, G_adv: 0.688, cycle: 0.629
+Step 1100/4620 | D_X_adv: 1.363, D_Y_adv: 1.334, G_adv: 0.763, cycle: 0.636
+Epoch 5: 100%|██████████| 231/231 [06:28<00:00,  1.68s/it]Validation after epoch 5/20
+
+Validation: 100%|██████████| 58/58 [00:08<00:00,  6.46it/s]
+Epochs:  25%|██▌       | 5/20 [33:10<1:39:38, 398.57s/it] Val G_adv: 0.719, cycle_L1: 0.041, cls: 0.835
+Step 1200/4620 | D_X_adv: 1.284, D_Y_adv: 1.428, G_adv: 0.817, cycle: 0.936
+Step 1300/4620 | D_X_adv: 1.317, D_Y_adv: 1.379, G_adv: 0.779, cycle: 0.998
+Epoch 6: 100%|██████████| 231/231 [06:28<00:00,  1.68s/it]Validation after epoch 6/20
+
+Validation: 100%|██████████| 58/58 [00:09<00:00,  6.35it/s]
+Epochs:  30%|███       | 6/20 [39:48<1:32:57, 398.36s/it] Val G_adv: 0.766, cycle_L1: 0.054, cls: 0.697
+Step 1400/4620 | D_X_adv: 1.413, D_Y_adv: 1.269, G_adv: 0.792, cycle: 0.671
+Step 1500/4620 | D_X_adv: 1.289, D_Y_adv: 1.338, G_adv: 0.802, cycle: 0.703
+Step 1600/4620 | D_X_adv: 1.245, D_Y_adv: 1.323, G_adv: 0.901, cycle: 0.713
+Epoch 7: 100%|██████████| 231/231 [06:28<00:00,  1.68s/it]Validation after epoch 7/20
+
+Validation: 100%|██████████| 58/58 [00:09<00:00,  6.42it/s]
+Epochs:  35%|███▌      | 7/20 [46:26<1:26:18, 398.32s/it] Val G_adv: 0.798, cycle_L1: 0.062, cls: 0.554
+Step 1700/4620 | D_X_adv: 1.302, D_Y_adv: 1.233, G_adv: 0.808, cycle: 0.836
+Step 1800/4620 | D_X_adv: 1.419, D_Y_adv: 1.415, G_adv: 0.626, cycle: 0.649
+Epoch 8: 100%|██████████| 231/231 [06:28<00:00,  1.68s/it]Validation after epoch 8/20
+
+Validation: 100%|██████████| 58/58 [00:09<00:00,  6.43it/s]
+Epochs:  40%|████      | 8/20 [53:05<1:19:41, 398.48s/it] Val G_adv: 0.866, cycle_L1: 0.070, cls: 0.574
+Step 1900/4620 | D_X_adv: 1.309, D_Y_adv: 1.243, G_adv: 1.125, cycle: 0.941
+Epoch 9:  32%|███▏      | 73/231 [02:04<04:28,  1.70s/it]
+Epochs:  40%|████      | 8/20 [55:09<1:22:44, 413.74s/it]
